@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useEffectCountTracker/static/css/main.46f5b8cd.css",
+    "main.js": "/useEffectCountTracker/static/js/main.af0d3f12.js",
+    "index.html": "/useEffectCountTracker/index.html",
+    "main.46f5b8cd.css.map": "/useEffectCountTracker/static/css/main.46f5b8cd.css.map",
+    "main.af0d3f12.js.map": "/useEffectCountTracker/static/js/main.af0d3f12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f5b8cd.css",
+    "static/js/main.af0d3f12.js"
+  ]
+}
